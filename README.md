@@ -7,7 +7,7 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 
 ## How to play the game
-
+⋅⋅* Unordered sub-list. 
 ⋅⋅* Use arrow keys 'up', 'right', 'down' and 'left' to move the boy on the grass and try to help him gets to the river without colliding with the bugs on the rock road
 ⋅⋅* if the boy collides with the bugs, he has to go back to the grass and you need to restar
 ⋅⋅* If you successfully move the boy with no collisions, you score will +1.
