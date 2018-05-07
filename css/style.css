@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-align: center;
+    color: #f0ecfe;
+    background: #D35400;
+}
+
+.heading {
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+}
+h1{
+    font-weight: bold;
+    color: #30336b;
+}
+.score
+{
+    font-size: 50px;
+}
+.score .score-value
+{
+    color: #130f40;
+    
+}
